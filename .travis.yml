@@ -5,4 +5,4 @@ install:
 mono: 
   - latest
 script:
-  - xbuild /p:Configuration=Debug O365-APIs-Start-ASPNET-MVC.sln
+  - xbuild /verbosity:diagnostic /p:Configuration=Debug O365-APIs-Start-ASPNET-MVC.sln
