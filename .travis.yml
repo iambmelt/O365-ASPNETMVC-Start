@@ -3,4 +3,4 @@ sudo: false
 mono:
   - beta
 script:
-  - ./build.sh --quiet verify
+  - ./build.sh verify
