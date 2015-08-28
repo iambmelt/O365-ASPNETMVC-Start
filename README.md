@@ -1,5 +1,6 @@
 ﻿# Office 365 Starter Project for ASP.NET MVC #
 [![Build Status](https://travis-ci.org/iambmelt/O365-ASPNETMVC-Start.svg?branch=master)](https://travis-ci.org/iambmelt/O365-ASPNETMVC-Start)
+
 **Table of Contents**
 
 - [Overview](#overview)
